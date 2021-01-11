@@ -46,7 +46,7 @@ gem 'jbuilder', '~> 2.8.0'
 gem 'will_paginate', '~> 3.1.6'
 gem 'friendly_id', '~> 5.2.5', :require => "friendly_id"
 
-gem 'redcarpet', '~> 3.4.0'
+gem 'redcarpet', '~> 3.5.1'
 gem 'yaml_db', '~> 0.7.0'
 gem 'listen', '~> 3.1.5'
 gem 'mysql2', '~> 0.5.2'
